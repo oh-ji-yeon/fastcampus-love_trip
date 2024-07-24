@@ -1,4 +1,4 @@
-import { COLLECTIONS } from '@/constants'
+import { COLLECTIONS } from '@constants'
 import { EVENTS, HOTEL, HOTEL_NAMES, IMAGES, ROOMS } from '@/mock/data'
 import { store } from '@remote/firebase'
 
