@@ -10098,6 +10098,7 @@ __metadata:
     react-query: "npm:^3.39.3"
     react-router-dom: "npm:^6.25.1"
     react-scripts: "npm:5.0.1"
+    swiper: "npm:^11.1.7"
     typescript: "npm:^4.4.2"
     web-vitals: "npm:^2.1.0"
   languageName: unknown
@@ -13775,6 +13776,13 @@ __metadata:
   bin:
     svgo: bin/svgo
   checksum: 10/2b74544da1a9521852fe2784252d6083b336e32528d0e424ee54d1613f17312edc7020c29fa399086560e96cba42ede4a2205328a08edeefa26de84cd769a64a
+  languageName: node
+  linkType: hard
+
+"swiper@npm:^11.1.7":
+  version: 11.1.7
+  resolution: "swiper@npm:11.1.7"
+  checksum: 10/7b9b7cc6246bb3df2074f06585acab13855ae13e65adf33564711affbb936f1b978ef706cd786752474a120e4b39e838f7c7409698e6835a8bd1514a0c96dd81
   languageName: node
   linkType: hard
 
